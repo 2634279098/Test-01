@@ -4,6 +4,8 @@ public class User {
     int c;
     int j;
 
+    int p;
+
 
 
 }
